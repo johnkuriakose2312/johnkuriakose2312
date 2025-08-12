@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 # Hello 👋, and welcome to my GitHub profile!
 
-**I'm John Kuriakose**, a **second year cse major** based in Kottayam, Kerala. 
-
 <!--## Areas of Expertise
 
 - **Web Applications**  
